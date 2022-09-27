@@ -1,0 +1,29 @@
+.navbar{
+    display: inline!important;
+    text-align: center;
+    justify-content: center;
+}
+
+
+#nav {
+    display: inline!important;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+li.study, li.breakTime{
+    display: inline;
+    padding: 25px;
+    text-decoration: none;
+    font-size: 40px;
+    border-radius: 20%;
+    border-color: #394F49;   
+}
+
+a {
+    text-decoration: none !important;
+    color: #394F49;
+    text-align: center;
+    justify-content: center;
+}
